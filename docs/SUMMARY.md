@@ -2,6 +2,6 @@
 
 * [Hello, World!](README.md)
 
-## 数式 <a href="#math" id="math"></a>
+## math
 
-* [数学](math/shu-xue.md)
+* [Math](math/math.md)
